@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xl+ppYgybgUJp/zDriiRDPgQFFEHL3LQDOMNTJxZgcy9rCgXz6hzqyya0n3PCAY7jMW0+ug0qg1w8r+W79AS/A==",
+  "success": true,
+  "projectFilePath": "/Users/mukhammaddiyorkhaydaraliev/Projects/ConntosoPizza/ConntosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/mukhammaddiyorkhaydaraliev/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mukhammaddiyorkhaydaraliev/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mukhammaddiyorkhaydaraliev/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mukhammaddiyorkhaydaraliev/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mukhammaddiyorkhaydaraliev/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mukhammaddiyorkhaydaraliev/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
